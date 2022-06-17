@@ -1,10 +1,13 @@
 # Studying gradient alignment in mitigating catastrophic forgetting for continual learning
 
-#Environment configuration
+# Environment configuration
 
 >pip install -r requirements.txt
 
-#Get the Available Datasets
+and 
+
+> pip install ipdb
+# Get the Available Datasets
 To download the Minist dataset
 > python get_data.py all
 
